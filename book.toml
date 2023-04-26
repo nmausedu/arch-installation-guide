@@ -1,0 +1,6 @@
+[book]
+authors = ["Salix"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Installing Arch for Dummies"
